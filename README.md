@@ -29,6 +29,3 @@ Sou aspirante a analista de sistemas, cursei ETEC e estou cursando FATEC.
 - Ferramentas
 
     ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-    
-#
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno2Martins&repo=dio-lab-open-source&bg_color=222&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/Bruno2Martins/dio-lab-open-source)

@@ -1,5 +1,6 @@
 # Olá, sou o Bruno Martins
-Sou aspirante a analista de sistemas, cursei ETEC e estou cursando FATEC.
+Tecnólogo em Análise e Desenvolvimento de Sistemas com experiência profissional em operações de e-commerce, produção e automação de processos. Tenho alguns projetos acadêmicos e soluções práticas para otimização de tarefas administrativas. 
+Fui aluno da ETEC e cursei FATEC.
 
 ## Contato
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mart02br@gmail.com)
